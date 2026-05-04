@@ -82,6 +82,3 @@ Welcome to my space! 🚀 I'm an IT Engineer with a strong passion for **Artific
 
 [![](https://visitcount.itsvg.in/api?id=HB2810&icon=0&color=9)](https://visitcount.itsvg.in)
 
----
-
-<!-- Redesigned by ChatGPT - Clean, readable, and professional GitHub README -->
